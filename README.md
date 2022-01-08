@@ -25,4 +25,5 @@
 <img src="https://img.shields.io/badge/%20-Docker-black?logo=docker&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-Jenkins-black?logo=jenkins&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Vagrant-black?logo=vagrant&style=for-the-badge"/>
 
 ### Cloud Platform
+<img src="https://img.shields.io/badge/%20-AWS-black?logo=amazonaws(Basic)&style=for-the-badge"/> 
 
