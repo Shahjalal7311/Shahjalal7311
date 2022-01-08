@@ -6,11 +6,8 @@
 - 😄 Pronouns: Shahjalal
 
 
-### Actively Working
+### Working Experience
 <img src="https://img.shields.io/badge/%20-PHP-black?logo=php&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Ruby-black?logo=ruby&style=for-the-badge"/> 
-
-### Has Experience
-<img src="https://img.shields.io/badge/%20-React.js-black?logo=react&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Node.js-black?logo=nodejs&style=for-the-badge"/> 
 
 ### Frontend Frameworks
 <img src="https://img.shields.io/badge/%20-Angular-black?logo=angular&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Bootstrap-black?logo=bootsrap&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Sass-black?logo=sass&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Less-black?logo=less&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-ant design-black?logo=antdesign&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-tailwind.css-black?logo=tailwind&style=for-the-badge"/> 
@@ -21,9 +18,5 @@
 ### Database
 <img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-MongoDB-black?logo=mongodb&style=for-the-badge"/>
 
-### DevOps
-<img src="https://img.shields.io/badge/%20-Docker-black?logo=docker&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-Jenkins-black?logo=jenkins&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Vagrant-black?logo=vagrant&style=for-the-badge"/>
-
-### Cloud Platform
-<img src="https://img.shields.io/badge/%20-AWS-black?logo=amazonaws(Basic)&style=for-the-badge"/> 
-
+### Has Experience
+<img src="https://img.shields.io/badge/%20-React.js-black?logo=react&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Node.js-black?logo=nodejs&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Docker-black?logo=docker&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-Jenkins-black?logo=jenkins&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Vagrant-black?logo=vagrant&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-AWS-black?logo=amazonaws(Basic)&style=for-the-badge"/> 
