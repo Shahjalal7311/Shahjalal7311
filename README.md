@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi 
+- 🔭 I’m currently working on Reivo Inc as Software Engineer
+- 🔭 Reivo Inc Link: https://reivo.co.jp/
+- 🌱 I’m currently learning About System Design Concept
+- 📫 Contact me : mdjalal2012@gmail.com
+- 😄 Pronouns: Shahjalal
 
-<!--
-**Shahjalal7311/Shahjalal7311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Actively Working
+<img src="https://img.shields.io/badge/%20-PHP-black?logo=php&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Ruby-black?logo=ruby&style=for-the-badge"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Has Experience
+<img src="https://img.shields.io/badge/%20-React.js-black?logo=react&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Node.js-black?logo=nodejs&style=for-the-badge"/> 
+
+### Frontend Frameworks
+<img src="https://img.shields.io/badge/%20-Angular-black?logo=angular&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Bootstrap-black?logo=bootsrap&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Sass-black?logo=sass&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Less-black?logo=less&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-ant design-black?logo=antdesign&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-tailwind.css-black?logo=tailwind&style=for-the-badge"/> 
+
+### Backend Frameworks
+<img src="https://img.shields.io/badge/%20-Rails-black?logo=rubyonrails&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Laravel-black?logo=laravel&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CodeIgniter-black?logo=codeigniter&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CakePHP-black?logo=cakephp&style=for-the-badge"/>
+
+### Database
+<img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-MongoDB-black?logo=mongodb&style=for-the-badge"/>
+
+### DevOps
+<img src="https://img.shields.io/badge/%20-Docker-black?logo=docker&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-Jenkins-black?logo=jenkins&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Vagrant-black?logo=vagrant&style=for-the-badge"/>
+
+### Cloud Platform
+
