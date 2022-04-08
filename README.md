@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/%20-Rails-black?logo=rubyonrails&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Laravel-black?logo=laravel&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CodeIgniter-black?logo=codeigniter&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CakePHP-black?logo=cakephp&style=for-the-badge"/>
 
 ### Database
-<img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-MongoDB-black?logo=mongodb&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-MongoDB-black?logo=mongodb(basic)&style=for-the-badge"/>
 
 ### Has Experience
-<img src="https://img.shields.io/badge/%20-React.js-black?logo=react&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Node.js-black?logo=nodejs&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Docker-black?logo=docker&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-Jenkins-black?logo=jenkins&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Vagrant-black?logo=vagrant&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-AWS-black?logo=amazonaws(Basic)&style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/%20-Node.js-black?logo=nodejs&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Docker-black?logo=docker&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-Jenkins-black?logo=jenkins&style=for-the-badge"/><img src="https://img.shields.io/badge/%20-AWS-black?logo=amazonaws(Basic)&style=for-the-badge"/> 
