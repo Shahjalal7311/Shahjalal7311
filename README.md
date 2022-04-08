@@ -1,7 +1,7 @@
 ### Hi 
-- 🔭 I’m currently working on Reivo Inc as Software Engineer
+- 🔭 Currently, I'm working as a Software Engineer at Reivo Inc.
 - 🔭 Reivo Inc Link: https://reivo.co.jp/
-- 🌱 I’m currently learning About System Design Concept
+- 🌱 I am learning about the system design concept and how to design the architecture of a system.
 - 📫 Contact me : mdjalal2012@gmail.com
 - 😄 Pronouns: Shahjalal
 
